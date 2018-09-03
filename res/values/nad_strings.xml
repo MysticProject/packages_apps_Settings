@@ -389,4 +389,6 @@
     <!-- UI background blur toggle -->
     <string name="ui_background_blur_title">UI background blur</string>
     <string name="ui_background_blur_summary">Enable UI background blur (expensive for GPU renderer)</string>
+
+    <string name="weather_title">Weather</string>
 </resources>
