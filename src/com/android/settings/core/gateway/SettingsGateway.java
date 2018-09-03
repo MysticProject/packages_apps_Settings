@@ -165,6 +165,7 @@ import com.android.settings.wifi.tether.WifiTetherSettings;
 
 import com.android.settings.livedisplay.LiveDisplaySettings;
 
+import com.evolution.settings.fragments.OmniJawsSettings;
 import com.evolution.settings.EvolutionSettings;
 import com.evolution.settings.fragments.GamingMode;
 
@@ -322,6 +323,7 @@ public class SettingsGateway {
             RunningServices.class.getName(),
             LiveDisplaySettings.class.getName(),
             GamingMode.class.getName(),
+            OmniJawsSettings.class.getName()
     };
 
     public static final String[] SETTINGS_FOR_RESTRICTED = {
@@ -364,5 +366,6 @@ public class SettingsGateway {
             Settings.EvolutionSettingsActivity.class.getName(),
             Settings.DevRunningServicesActivity.class.getName(),
             Settings.GamingModeActivity.class.getName(),
+            Settings.OmniJawsSettingsActivity.class.getName(),
     };
 }
