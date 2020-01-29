@@ -96,9 +96,8 @@
     <Preference
         android:key="maintainer"
         android:title="@string/maintainer"
-        android:summary="@string/summary_placeholder"
-        settings:enableCopying="true"
-        settings:controller="com.android.settings.deviceinfo.firmwareversion.MaintainerPreferenceController"/>
+        android:summary="@string/maintainer_name"
+        settings:enableCopying="true" />
 
     <!-- Kernel -->
     <Preference
