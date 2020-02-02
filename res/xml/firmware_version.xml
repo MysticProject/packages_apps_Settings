@@ -53,6 +53,13 @@
         android:selectable="false"
         settings:controller="com.android.settings.deviceinfo.firmwareversion.MainlineModuleVersionPreferenceController"/>
 
+    <!-- Build maintainer -->
+    <Preference
+        android:key="maintainer"
+        android:title="@string/build_maintainer"
+        android:summary="@string/build_maintainer_summary"
+        settings:enableCopying="true" />
+
     <!-- Baseband -->
     <Preference
         android:key="base_band"
