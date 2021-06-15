@@ -26,7 +26,6 @@
     <string name="security_settings_fingerprint_sensor_location_right">правой стороне</string>
     <!-- About device screen, build date -->
     <string name="build_date">Дата сборки</string>
-    <!-- About device screen, build maintainer -->
     <!-- About device screen, device codename -->
     <string name="device_codename">Название устройства</string>
     <!-- About device screen, Evolution X -->

@@ -29,7 +29,6 @@
     <string name="fp_swipe_to_dismiss_notifications_summary">Per scartare le tue notifiche, scorri a sinistra o destra sul sensore digitale sul retro del tuo telefono.</string>
     <!-- About device screen, build date -->
     <string name="build_date">Data di compilazione</string>
-    <!-- About device screen, build maintainer -->
     <!-- About device screen, device codename -->
     <string name="device_codename">Nome codice del dispositivo</string>
     <!-- About device screen, Evolution X -->
